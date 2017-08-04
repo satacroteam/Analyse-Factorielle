@@ -5,9 +5,14 @@
 </p>
 
 ## Description
-Projet d'analyse factorielle: ACP, AFD, AFCM, ACC
+Projet d'analyse factorielle: 
+*Analyse en composante principale (ACP)
+*Analyse factorielle discriminante (AFD)
+*Analyse factorielle en composantes multiples (AFCM)
+*Analyse canonique des corrélations (ACC)
 
 ## Documents
+[Problem statement](https://github.com/satacroteam/Analyse-Factorielle/blob/master/Enonce.pdf)
+
 [Research report](https://github.com/satacroteam/Analyse-Factorielle/blob/master/Projet_Analyse_Factorielle.pdf)
 
-[Problem statement](https://github.com/satacroteam/Analyse-Factorielle/blob/master/Enonce.pdf)
